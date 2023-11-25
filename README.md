@@ -18,3 +18,8 @@ inteiro c para sinalizar o número de vértices.
 * – y: Meu próprio método Couting Sort adaptado.
 * N linhas indicado a quantidade e quais vizinhos cada vértice possui.
 * A última linha contém n inteiros indicando as cores de cada um dos vértices.
+
+
+## Uso
+ * make all
+ * ./bin/main < teste1.in

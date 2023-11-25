@@ -1,6 +1,6 @@
 Coloração dos Vertices
 
-. Para cada vértice v da permutação P, tomado na ordem de P, atribua a ele a menor
+Para cada vértice v da permutação P, tomado na ordem de P, atribua a ele a menor
 cor disponível. Uma cor c é dita disponível se c ∈ C e nenhum vizinho de v possui
 cor c. Caso não haja cor disponível, "crie"uma cor nova acrescentando mais uma
 cor a C e atribua a nova cor a v.
